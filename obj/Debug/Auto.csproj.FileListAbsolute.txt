@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\ASUS\source\repos\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\ASUS\source\repos\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\ASUS\source\repos\Auto\Auto\obj\Debug\Auto.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\ASUS\source\repos\Auto\Auto\obj\Debug\Auto.pdb
